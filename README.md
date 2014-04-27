@@ -1,4 +1,4 @@
 phaser-test
 ===========
 
-Baby's first game
+Baby's first game!
